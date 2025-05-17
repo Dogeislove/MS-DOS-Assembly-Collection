@@ -1,6 +1,4 @@
-; Turbo Assembler example. Copyright (c) 1993 By Borland International, Inc.
-
-; From the Turbo Assembler User's Guide - Getting started
+; UNFINISHED
 
 .MODEL  SMALL
 .STACK  100h
